@@ -1,4 +1,4 @@
 .vscode
 datasets
-cnn_fast_encap.py
 cnn3.py
+cnn_fast_encap.py

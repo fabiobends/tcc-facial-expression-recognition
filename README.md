@@ -1,6 +1,6 @@
 # tcc-facial-expression-recognition
 
-NO meu TCC, eu desenvolvi uma rede neural convolucional (do zero) conectada a uma MLP para realizar o conhecimento de expressões faciais com hardware limitado (sem uso de GPU e frameworks).
+No meu TCC, eu desenvolvi uma rede neural convolucional (do zero) conectada a uma MLP para realizar o conhecimento de expressões faciais com hardware limitado (sem uso de GPU e frameworks).
 
 O código é dividido em dois datasets:
 
