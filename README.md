@@ -26,6 +26,6 @@ You can also compile and minify it for production
 yarn build
 ``` -->
 
-Caso tenha alguma dúvida, entre em contato comigo por [Linkedin](https://www.linkedin.com/in/fabiobends/) ou mande um e-mail para fabiobends@gmail.com :man_technologist: 
+Caso haja alguma dúvida, entre em contato comigo por [Linkedin](https://www.linkedin.com/in/fabiobends/) ou mande um e-mail para fabiobends@gmail.com :man_technologist: 
 
 Made with :heart:
